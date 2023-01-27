@@ -1,4 +1,4 @@
-﻿using static System.Console;
+using static System.Console;
 Console.WriteLine("Hello, Moses ");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
 
