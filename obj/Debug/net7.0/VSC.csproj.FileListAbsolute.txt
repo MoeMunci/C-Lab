@@ -1,0 +1,15 @@
+/Applications/LC3/VSC/bin/Debug/net7.0/VSC
+/Applications/LC3/VSC/bin/Debug/net7.0/VSC.deps.json
+/Applications/LC3/VSC/bin/Debug/net7.0/VSC.runtimeconfig.json
+/Applications/LC3/VSC/bin/Debug/net7.0/VSC.dll
+/Applications/LC3/VSC/bin/Debug/net7.0/VSC.pdb
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.csproj.AssemblyReference.cache
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.AssemblyInfoInputs.cache
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.AssemblyInfo.cs
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.csproj.CoreCompileInputs.cache
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.dll
+/Applications/LC3/VSC/obj/Debug/net7.0/refint/VSC.dll
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.pdb
+/Applications/LC3/VSC/obj/Debug/net7.0/VSC.genruntimeconfig.cache
+/Applications/LC3/VSC/obj/Debug/net7.0/ref/VSC.dll

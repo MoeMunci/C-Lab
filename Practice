@@ -1,0 +1,17 @@
+using System;
+using static System.Console;
+
+namespace Formatting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int numberOfApples = 12;
+            decimal pricePerApple = 0.35M;
+            WriteLine(
+                format: "{0} apples costs {"
+            )
+        }
+    }
+}
